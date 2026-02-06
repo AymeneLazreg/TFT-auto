@@ -1,0 +1,24 @@
+# Ignorer les fichiers/dossiers générés
+debug/
+tft.json
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
