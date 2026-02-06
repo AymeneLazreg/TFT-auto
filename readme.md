@@ -14,3 +14,16 @@ Extrait les sprite UI dans le dossier **debug** et essaye de lire ce qu'il peut 
 python .\ocr_match_champion.py -q ".\debug\shop_card_1.png" --lang eng
 
 lis le nom du champion depuis sa carte **shop_card_1.png** extraite de l'UI et retourne sa valeur
+
+
+## Ce qui marche actuellement
+Detection des l'emplacement du shop et extraction des 5 cartes ainsis que leur lecture avec le second script separé
+
+Gold
+
+Level
+
+A faire en priorité : 
+- Detection du HP du joueur
+- Detection des Champions sur le bench
+- Detection de trucs (yordle, noxus, demacia...)
